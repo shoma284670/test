@@ -6,10 +6,12 @@
 	<title>下田篤書店-書籍検索画面</title>
 </head>
 
+
+
+
 <body>
 	<?php
-// aggg
-
+// agggerrr
 	require_once '_database_conf.php';
 	require_once '_h.php';
 
